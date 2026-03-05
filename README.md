@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**QueueU123/QueueU123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Marc Jericho**, an aspiring software engineer, data scientist, and cybersecurity professional based in the Philippines.
 
-Here are some ideas to get you started:
+I design and build intelligent systems that bridge the gap between engineering, data and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea involves solving complex problems with data, chances are I’ll build it and ship it.
+
+My main tech stack is **Java (Spring Boot)**, **React**, **Python**, and **SQL**.
+
+I’ve got a bunch of pinned projects, but my favorite is **DreamSnap**—an AI-driven consumer experience that made it to the Top 10 of the **Home Credit x KadaKareer Hackathon**.
+
+I’m currently working on a thesis focused on the detection and classification of panic attacks using hybrid **ANN-RF models** and **Explainable AI (XAI)**.
+
+If you want to see my professional journey, my **LinkedIn** and **Portfolio** are available in my profile!
+
+**Fun Facts:**
+* I like reading manhwa, manhua, manga, and light novels
+* I have a strong interest in **Cybersecurity** , **Ethical Hacking** and **Programming**.
+* **Hobbies:** gym, video games, and playing guitar.
